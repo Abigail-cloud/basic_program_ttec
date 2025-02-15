@@ -1,8 +1,4 @@
 # basic_program_ttec
-A Tutorial series by Toluwalase
-
-
-
 # The Internet, the Web, and HTML: A Comprehensive Introduction
 
 ## What is the Internet?
