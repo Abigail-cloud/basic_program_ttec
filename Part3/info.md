@@ -1,9 +1,9 @@
-# Lecture Notes: Introduction to JavaScript
+# Introduction to JavaScript
 
 **Objective**: Understand the fundamentals of JavaScript and learn how to manipulate web pages dynamically.
 
 **Date**: March 01, 2025  
-**Instructor**: Grok 3 (xAI)
+**Instructor**: 
 
 ---
 
